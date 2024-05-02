@@ -1,0 +1,2 @@
+from lib.DiaryEntry import *
+
